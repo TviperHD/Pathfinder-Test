@@ -1,0 +1,10 @@
+body{
+  margin: 0;
+}
+header{
+  background-image: url(https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-section-bg-red-grit-texture-xl.jpg.adapt.crop191x100.628p.jpg);
+  text-align: center;
+}
+header h1{
+  color: white;
+}
